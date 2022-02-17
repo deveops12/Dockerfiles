@@ -1,5 +1,5 @@
 #git
-FROM alpine/git as repo
+FROM rancher/alpine-git as repo
 
 MAINTAINER mylandmarktech@gmail.com
 
