@@ -1,5 +1,5 @@
 #git
-FROM I want to edit my repo:alpine/git  as repo
+FROM alpine/git  as repo
 
 MAINTAINER mylandmarktech@gmail.com
 
